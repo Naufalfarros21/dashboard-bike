@@ -13,7 +13,7 @@ Pastikan Anda sudah menginstal:
 ## Langkah-Langkah Menjalankan Dashboard
 
 1. **Clone Repositori**  
-   Clone repositori proyek ini atau unduh file `app.py` ke dalam direktori lokal Anda:
+   Clone repositori proyek ini atau unduh file `dashboard.py` ke dalam direktori lokal Anda:
    ```bash
    git clone https://github.com/Naufalfarros21/dashboard-bike.git
    cd repository-name
@@ -54,7 +54,7 @@ Dashboard ini menampilkan:
 ## Contoh Perintah Jalankan
 Jika Anda memiliki file `hour.csv` dan `day.csv` di folder yang sama dengan `dashboard.py`, cukup jalankan:
 ```bash
-streamlit run app.py
+streamlit run dashboard.py
 ```
 
 ## Kontribusi
