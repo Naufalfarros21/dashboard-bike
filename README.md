@@ -15,7 +15,7 @@ Pastikan Anda sudah menginstal:
 1. **Clone Repositori**  
    Clone repositori proyek ini atau unduh file `app.py` ke dalam direktori lokal Anda:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Naufalfarros21/dashboard-bike.git
    cd repository-name
    ```
 
