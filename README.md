@@ -42,7 +42,7 @@ Pastikan Anda memiliki file data yang sesuai:
 - `hour.csv`: Data penyewaan sepeda per jam.
 - `day.csv`: Data penyewaan sepeda per hari.
 
-Letakkan file CSV di dalam direktori proyek atau ubah path di dalam `app.py` agar sesuai dengan lokasi file.
+Letakkan file CSV di dalam direktori proyek atau ubah path di dalam `dashboard.py` agar sesuai dengan lokasi file.
 
 ## Insight yang Disajikan
 Dashboard ini menampilkan:
@@ -52,7 +52,7 @@ Dashboard ini menampilkan:
 - Perbandingan pola penyewaan antara hari kerja dan akhir pekan.
 
 ## Contoh Perintah Jalankan
-Jika Anda memiliki file `hour.csv` dan `day.csv` di folder yang sama dengan `app.py`, cukup jalankan:
+Jika Anda memiliki file `hour.csv` dan `day.csv` di folder yang sama dengan `dashboard.py`, cukup jalankan:
 ```bash
 streamlit run app.py
 ```
@@ -61,4 +61,4 @@ streamlit run app.py
 Jika Anda ingin berkontribusi, silakan buat pull request atau ajukan issue di repositori ini.
 
 ## Lisensi
-Proyek ini dilisensikan di bawah [Nama Lisensi].
+Proyek ini dilisensikan di bawah [Naufalfrrs21].
